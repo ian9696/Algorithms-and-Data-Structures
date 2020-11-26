@@ -6,8 +6,6 @@ https://oi.men.ci/link-cut-tree-notes/
 
 */
 
-#include "stdafx.h"
-
 #include <cstdio>
 #include <climits>
 #include <algorithm>

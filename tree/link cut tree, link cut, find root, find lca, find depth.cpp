@@ -6,8 +6,6 @@ source unknown
 
 */
 
-#include "stdafx.h"
-
 #include <cstdio>
 #include <algorithm>
 #include <cstring>
