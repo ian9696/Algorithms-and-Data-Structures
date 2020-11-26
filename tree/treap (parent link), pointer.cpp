@@ -1,12 +1,10 @@
 /*
 
-treap, parent link
+treap (parent link), pointer
 
 http://codeforces.com/gym/100796/problem/J
 
 */
-
-#include "stdafx.h"
 
 #include<stdio.h>
 #include<algorithm>

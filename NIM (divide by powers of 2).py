@@ -1,6 +1,6 @@
 '''
 
-modified NIM
+NIM (divide by powers of 2)
 
 Competitive Programming 1 (Spring 2018)
 Assignment 22 (Week 15) - Nim

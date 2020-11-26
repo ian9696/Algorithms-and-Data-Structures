@@ -4,27 +4,18 @@ prime generation, sieve of Eratosthenes, linear sieve
 
 */
 
-#include "stdafx.h"
-
 #include<iostream>
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
 #include<algorithm>
 #include<vector>
-#include<stack>
-#include<map>
-#include<set>
-#include<queue>
 #include<string>
 #include<string.h>
-#include<math.h>
 #include<ctype.h>
-#include<bitset>
-#include<deque>
 using namespace std;
 
-typedef long long ll;
+typedef long long lld;
 
 #include<ctime>
 
@@ -38,7 +29,7 @@ vector<int> normal(const int N)
 		if (isp[i])
 		{
 			p.push_back(i);
-			for (ll j = (ll)i*i; j < N; j += i)
+			for (lld j = (lld)i*i; j < N; j += i)
 			{
 				cnt++;
 				isp[j] = false;
@@ -58,7 +49,7 @@ vector<int> linear(const int N)
 	{
 		if (isp[i])
 			p.push_back(i);
-		for (int j = 0; j < p.size() && (ll)p[j]*i<N; j++)
+		for (int j = 0; j < p.size() && (lld)p[j]*i<N; j++)
 		{
 			cnt++;
 			isp[p[j]*i] = false;
@@ -85,6 +76,4 @@ int main(int argc, const char* argv[])
 	if (prime_n != prime_l)
 		printf("Error!\n");
 	printf("%d %d\n", prime_n.size(), prime_l.size());
-	system("pause");
-	return 0;
 }

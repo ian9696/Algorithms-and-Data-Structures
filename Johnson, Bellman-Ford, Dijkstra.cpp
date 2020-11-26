@@ -1,6 +1,6 @@
 /*
 
-Johnson's algorithm, Bellman-Ford, Dijkstra
+Johnson, Bellman-Ford, Dijkstra
 
 Introduction to Algorithms (Fall 2017)
 homework11.1 Johnson’s algorithm

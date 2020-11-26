@@ -1,6 +1,6 @@
 /*
 
-min cost circulation, modified capacity scaling, SPFA, small label first (SLF) heuristic, negative cycle
+min cost circulation, capacity scaling (modified), SPFA, small label first (SLF) heuristic, negative cycle cycle
 
 Combinatorial Optimization Algorithms
 Minimum Cost Circulation

@@ -1,6 +1,6 @@
 /*
 
-maximum independent set, bipartite graph, Dinic
+max independent set, bipartite graph, Dinic
 
 Asia Daejeon Regionals 2016
 problem D - Independent Edges

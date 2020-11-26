@@ -1,6 +1,6 @@
 /*
 
-treap
+treap, pointer
 
 */
 

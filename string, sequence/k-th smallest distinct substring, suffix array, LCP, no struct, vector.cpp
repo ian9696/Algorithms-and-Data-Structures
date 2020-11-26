@@ -1,14 +1,12 @@
 /*
 
-k-th distinct substring, suffix array, LCP
+k-th smallest distinct substring, suffix array, LCP, no struct, vector
 
 O(nlogn)
 
 http://www.spoj.com/problems/SUBLEX/
 
 */
-
-#include"stdafx.h"
 
 #include<iostream>
 #include<algorithm>

@@ -6,8 +6,6 @@ https://official.contest.yandex.com/mipt2018prefinals/contest/7784/problems/C2/
 
 */
 
-#include "stdafx.h"
-
 #include<cstdio>
 #include<algorithm>
 #include<vector>

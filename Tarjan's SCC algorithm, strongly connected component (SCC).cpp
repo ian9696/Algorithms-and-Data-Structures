@@ -1,6 +1,8 @@
 /*
 
-Tarjan's SCC algorithm
+Tarjan's SCC algorithm, strongly connected component (SCC)
+
+O(n+m)
 
 */
 
