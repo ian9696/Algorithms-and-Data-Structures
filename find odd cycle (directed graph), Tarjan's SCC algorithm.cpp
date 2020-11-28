@@ -1,14 +1,12 @@
 /*
 
-odd cycle, directed graph, Tarjan's SCC algorithm
+find odd cycle (directed graph), Tarjan's SCC algorithm
 
 2015 Asia Daejeon Regionals
 Odd Cycle
 http://vjudge.net/problem/UVALive-7231
 
 */
-
-#include "stdafx.h"
 
 #include<stdio.h>
 #include<algorithm>

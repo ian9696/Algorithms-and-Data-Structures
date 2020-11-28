@@ -1,6 +1,6 @@
 /*
 
-2d rectangle overlap, coordinate mapping, segment tree (1d range update all query, 1d point update prefix query), pointer
+2d rectangle overlap, coordinate mapping, segment tree (1d range update all query, 1d point update prefix query)
 
 Selected Topics in Intractable Problems (Spring 2019)
 Not So Helly (Programming Assignment #3)

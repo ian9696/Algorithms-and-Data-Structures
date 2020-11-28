@@ -1,6 +1,6 @@
 /*
 
-centroid decomposition (remove dead vertices), extended Euclidean, modular inverse, DFS, map, vector, linked list
+centroid decomposition (remove dead vertices), extended Euclidean, modular inverse, DFS, map, linked list
 
 Codeforces Round #372 (Div. 1)
 C. Digit Tree

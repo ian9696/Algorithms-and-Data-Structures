@@ -8,8 +8,6 @@ http://codeforces.com/gym/101174
 
 */
 
-#include "stdafx.h"
-
 #include<cctype>
 #include<cstdio>
 #include<cstring>

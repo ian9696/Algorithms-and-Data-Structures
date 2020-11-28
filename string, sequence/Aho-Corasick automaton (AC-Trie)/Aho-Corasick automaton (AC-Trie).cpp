@@ -4,8 +4,6 @@ Aho-Corasick automaton (AC-Trie)
 
 */
 
-#include "stdafx.h"
-
 #include<cstdio>
 #include<cstring>
 

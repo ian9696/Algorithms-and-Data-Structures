@@ -1,8 +1,10 @@
 /*
 
-Aho-Corasick automaton (AC-Trie), matrix exponentiation by squaring (add, max)
+string with max weight sum (weight w_i if containing word s_i, multiplicity, overlap), Aho-Corasick automaton (AC-Trie), DP, matrix exponentiation by squaring (add, max, max-plus algebra)
 
-http://codeforces.com/problemset/problem/696/D
+Codeforces Round #362 (Div. 1)
+D. Legen...
+https://codeforces.com/problemset/problem/696/D
 
 */
 

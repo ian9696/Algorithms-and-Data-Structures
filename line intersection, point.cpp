@@ -1,6 +1,6 @@
 /*
 
-line intersection
+line intersection, point
 
 2016-2017 ACM-ICPC, South Pacific Regional Contest (SPPC 16)
 problem D - Dendroctonus

@@ -1,6 +1,6 @@
 /*
 
-extended Euclidean, segment tree, pointer
+extended Euclidean, segment tree (pointer)
 
 Introduction to Algorithms (Fall 2017)
 Assignment 9 (Week 8) - Products Again
